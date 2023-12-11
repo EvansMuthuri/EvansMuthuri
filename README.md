@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Web developer</h3> <br>
 <img align="right" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47wayopmcrg8qqachj39hwzu0x4bxpemgnj7hfyu2k&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-- 🔭 I’m currently working on some cool**Personal projects**
+- 🔭 I’m currently working on some cool **Personal projects**
 
 - 🌱 I’m currently learning **Js**
 
