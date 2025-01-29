@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Js**
 
-- 💬 Ask me about **HTML, CSS, Js, React, Git, Python, Django, Bootstrap, MySQL**
+- 💬 Ask me about **HTML, CSS, Js, React, Git, Python, Django, Bootstrap, MySQL, Tailwind, Bootstrap**
 
 - 📫 How to reach me **evanskoome2018@gmail.com**
 
